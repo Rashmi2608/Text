@@ -1,2 +1,2 @@
 # Text
-Text repository
+Text repository for basic git commands demonstration
